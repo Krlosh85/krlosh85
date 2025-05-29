@@ -1,13 +1,13 @@
 # Hello there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-## I am Carlos Herrera, currently a senior Computer Science Student at Cleveland State University <img src="https://upload.wikimedia.org/wikipedia/en/c/c9/Cleveland_State_University_logo.png" width="28px" height="28px" alt="CSU Logo">
+## I am Carlos Herrera, an alumnus from Cleveland State University! <img src="https://upload.wikimedia.org/wikipedia/en/c/c9/Cleveland_State_University_logo.png" width="28px" height="28px" alt="CSU Logo">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Krlosh85-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-herrera-mtnz/)
 [![Mail Badge](https://img.shields.io/badge/-Krlosh85-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:carlosherreramtnz@gmail.com)
 
 ### What's going on with me?
 
-- 🔭 I’m currently working on the `IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X - Certification`
+- 🔭 I’m currently working on `DataCamp!`
 - 🌱 I’m currently learning `Data Science and Statistics`
 - 👯 I’m looking to collaborate on `Exciting projects!`
 - 🤔 I’m looking for help with `Career opportunities`
